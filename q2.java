@@ -7,7 +7,7 @@ package lab5;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class q2 {
  
